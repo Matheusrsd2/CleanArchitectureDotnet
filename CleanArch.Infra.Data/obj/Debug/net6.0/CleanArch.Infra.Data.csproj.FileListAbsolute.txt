@@ -1,4 +1,5 @@
 C:\Users\mathe\Documents\CleanArch\CleanArch.Infra.Data\bin\Debug\net6.0\CleanArch.Infra.Data.deps.json
+C:\Users\mathe\Documents\CleanArch\CleanArch.Infra.Data\bin\Debug\net6.0\CleanArch.Infra.Data.runtimeconfig.json
 C:\Users\mathe\Documents\CleanArch\CleanArch.Infra.Data\bin\Debug\net6.0\CleanArch.Infra.Data.dll
 C:\Users\mathe\Documents\CleanArch\CleanArch.Infra.Data\bin\Debug\net6.0\ref\CleanArch.Infra.Data.dll
 C:\Users\mathe\Documents\CleanArch\CleanArch.Infra.Data\bin\Debug\net6.0\CleanArch.Infra.Data.pdb
@@ -13,3 +14,4 @@ C:\Users\mathe\Documents\CleanArch\CleanArch.Infra.Data\obj\Debug\net6.0\CleanAr
 C:\Users\mathe\Documents\CleanArch\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.dll
 C:\Users\mathe\Documents\CleanArch\CleanArch.Infra.Data\obj\Debug\net6.0\ref\CleanArch.Infra.Data.dll
 C:\Users\mathe\Documents\CleanArch\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.pdb
+C:\Users\mathe\Documents\CleanArch\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.genruntimeconfig.cache

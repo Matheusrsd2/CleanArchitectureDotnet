@@ -35,6 +35,11 @@
       "ProjectGuid": "7ab60e67-4a7a-480c-9992-a5cc66d87fc9",
       "DisplayName": "CLeanArch.Domain.Tests",
       "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 7

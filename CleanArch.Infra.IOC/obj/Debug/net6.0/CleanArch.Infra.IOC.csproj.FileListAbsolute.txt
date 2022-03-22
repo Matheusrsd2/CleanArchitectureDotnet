@@ -17,3 +17,5 @@ C:\Users\mathe\Documents\CleanArch\CleanArch.Infra.IOC\obj\Debug\net6.0\CleanArc
 C:\Users\mathe\Documents\CleanArch\CleanArch.Infra.IOC\obj\Debug\net6.0\CleanArch.Infra.IOC.dll
 C:\Users\mathe\Documents\CleanArch\CleanArch.Infra.IOC\obj\Debug\net6.0\ref\CleanArch.Infra.IOC.dll
 C:\Users\mathe\Documents\CleanArch\CleanArch.Infra.IOC\obj\Debug\net6.0\CleanArch.Infra.IOC.pdb
+C:\Users\mathe\Documents\CleanArch\CleanArch.Infra.IOC\bin\Debug\net6.0\CleanArch.Infra.IOC.runtimeconfig.json
+C:\Users\mathe\Documents\CleanArch\CleanArch.Infra.IOC\obj\Debug\net6.0\CleanArch.Infra.IOC.genruntimeconfig.cache

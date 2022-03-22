@@ -5,14 +5,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArch.Domain.Interfaces
+namespace CleanArch.Infra.Data.Interfaces
 {
     public interface ICategoriaRepository
     {
         Task<IEnumerable<Categoria>> ObterCategorias();
-        Task<Categoria> ObterPorId(string id);
-        Task Criar(Categoria categoria);
-        Task Atualizar(Categoria categoria);
+        Task<Categoria> ObterPorId(int id);
+        Task<Categoria> Criar(Categoria categoria);
+        Task<Categoria> Atualizar(Categoria categoria);
         Task Remover(Categoria categoria);
 
 

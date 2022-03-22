@@ -2,7 +2,6 @@ C:\Users\mathe\Documents\CleanArch\CleanArch.Domain\bin\Debug\net6.0\CleanArch.D
 C:\Users\mathe\Documents\CleanArch\CleanArch.Domain\bin\Debug\net6.0\CleanArch.Domain.dll
 C:\Users\mathe\Documents\CleanArch\CleanArch.Domain\bin\Debug\net6.0\ref\CleanArch.Domain.dll
 C:\Users\mathe\Documents\CleanArch\CleanArch.Domain\bin\Debug\net6.0\CleanArch.Domain.pdb
-C:\Users\mathe\Documents\CleanArch\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.csproj.AssemblyReference.cache
 C:\Users\mathe\Documents\CleanArch\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\mathe\Documents\CleanArch\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.AssemblyInfoInputs.cache
 C:\Users\mathe\Documents\CleanArch\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.AssemblyInfo.cs
@@ -10,3 +9,4 @@ C:\Users\mathe\Documents\CleanArch\CleanArch.Domain\obj\Debug\net6.0\CleanArch.D
 C:\Users\mathe\Documents\CleanArch\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.dll
 C:\Users\mathe\Documents\CleanArch\CleanArch.Domain\obj\Debug\net6.0\ref\CleanArch.Domain.dll
 C:\Users\mathe\Documents\CleanArch\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.pdb
+C:\Users\mathe\Documents\CleanArch\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.csproj.AssemblyReference.cache
