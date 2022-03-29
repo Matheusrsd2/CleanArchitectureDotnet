@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "oynZR4BYcuFKJCEZAIOtEbmcaOmr2Sjv+91rkisTnC2RmjbuIRd9W2Em90Vt/N1NbbKBzpJeqwOVARhmP2eJyQ==",
+  "dgSpecHash": "HyxDcm2ofyismPeevRp03X9L5c7A0jL6gHlf76BYkMAEb2gXtuGeVQcuaDVUjJ/VPD1LdzwNbY+aXr8JmIQUTA==",
   "success": true,
   "projectFilePath": "C:\\Users\\mathe\\Documents\\CleanArch\\CleanArch.Infra.IOC\\CleanArch.Infra.IOC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",

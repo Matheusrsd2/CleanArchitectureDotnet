@@ -30,6 +30,9 @@
             "projectReferences": {
               "C:\\Users\\mathe\\Documents\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj": {
                 "projectPath": "C:\\Users\\mathe\\Documents\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj"
+              },
+              "C:\\Users\\mathe\\Documents\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\mathe\\Documents\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj"
               }
             }
           }
@@ -43,6 +46,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

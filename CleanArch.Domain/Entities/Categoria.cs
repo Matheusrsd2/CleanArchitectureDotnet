@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CleanArch.Domain.Entities
 {
-    public sealed class Categoria
+    public sealed class Categoria : Entity
     {
         //public Categoria(string nome)
         //{
@@ -18,7 +18,6 @@ namespace CleanArch.Domain.Entities
         {
             ValidarDominio(id, nome);
         }
-        public int Id { get; private set; }
         public string Nome { get; private set; }
         public ICollection<Produto> Produtos { get; set; }
 
